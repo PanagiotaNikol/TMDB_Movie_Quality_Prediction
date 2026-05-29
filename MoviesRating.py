@@ -17,7 +17,7 @@ from sklearn.metrics import (
 # =========================================
 
 # Διαβάζουμε το dataset ταινιών
-df = pd.read_csv("Projects For Uni\\tmdb_5000_movies.csv")
+df = pd.read_csv("tmdb_5000_movies.csv")
 
 # =========================================
 # CREATE TARGET VARIABLE
