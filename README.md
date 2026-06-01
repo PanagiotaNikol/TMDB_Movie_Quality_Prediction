@@ -153,10 +153,10 @@ tmdb_5000_movies.csv
 README.md
 
 images/
-├── target_distribution.png
-├── feature_importance.png
-├── logistic_regression_confusion_matrix.png
-├── random_forest_confusion_matrix.png
-└── model_comparison.png
+├── Target_Distribution.png
+├── Feature_Importance.png
+├── Confusion_Matrix-Logistic_Regression.png
+├── Confusion_Matrix-Random_Forest.png
+└── Model_Comparison.png
 ```
 
